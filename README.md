@@ -4,7 +4,7 @@ GitHub Actions is an advanced feature of GitHub that enables automation and CI/C
 
 **Phase 1: Repo Creation**
   > **The goal of Phase 1 is to create your own branch off the forked `master-camel-connect` repo where you can build out your own GitHub Actions. You will also be introduced to the GitHub Flow and [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) if you haven't seen it in the past.**
-  1. Star this repo at the top of the page.
+  1. Star this repo at the top of the page. :)
   1. Fork [this repository](https://github.com/WRK2009-Workflow/master-camel-connect) to your user account.
   1. Using your terminal, command prompt, or the [GitHub client](https://desktop.github.com).
   1. Clone your new repository to your local machine using `git clone https://github.com/your_username/master-camel-connect.git`
